@@ -1,14 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <unistd.h>
 #include <string.h>
-// Specific todo
-// 1. DONE ->>>implement piece capturing for other pieces
-// 2. DONE ->>>Pawn Promotion
-// 3. detect checks (loop over the entire board and see which piece attacks king)
-// 4. checkmate sytem
-// 5. DONE ->>> Merge startProg with main
-
 
 // Function displays the board
 // Note x increase in the right and y increase downwards
